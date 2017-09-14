@@ -1,0 +1,21 @@
+/* 
+. for classes
+# for IDs
+*/
+body {
+	background-color: #B1F181;
+}
+
+#all-pets {
+	width: 100%;
+}
+
+.individual-pet{
+	color: black;
+	font-size: 121%;
+	font-family: Arial;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+    width:50%;
+}
